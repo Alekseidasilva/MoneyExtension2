@@ -1,0 +1,11 @@
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\bin\Debug\net8.0\MoneyExtension.deps.json
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\bin\Debug\net8.0\MoneyExtension.dll
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\bin\Debug\net8.0\MoneyExtension.pdb
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\obj\Debug\net8.0\MoneyExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\obj\Debug\net8.0\MoneyExtension.AssemblyInfoInputs.cache
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\obj\Debug\net8.0\MoneyExtension.AssemblyInfo.cs
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\obj\Debug\net8.0\MoneyExtension.csproj.CoreCompileInputs.cache
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\obj\Debug\net8.0\MoneyExtension.dll
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\obj\Debug\net8.0\refint\MoneyExtension.dll
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\obj\Debug\net8.0\MoneyExtension.pdb
+C:\Dev\Alekseidasilva\MoneyExtension2\MoneyExtension\obj\Debug\net8.0\ref\MoneyExtension.dll
