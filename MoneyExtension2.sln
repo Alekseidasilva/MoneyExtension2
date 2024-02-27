@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyExtension", "MoneyExtension\MoneyExtension.csproj", "{AB6FD0E7-6D8E-4471-9550-AA3D85DDFC34}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyExtension.Tests", "MoneyExtension.Tests\MoneyExtension.Tests.csproj", "{8A6C82BA-2DAB-431F-86BB-AC732A6261F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{AB6FD0E7-6D8E-4471-9550-AA3D85DDFC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB6FD0E7-6D8E-4471-9550-AA3D85DDFC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB6FD0E7-6D8E-4471-9550-AA3D85DDFC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6C82BA-2DAB-431F-86BB-AC732A6261F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6C82BA-2DAB-431F-86BB-AC732A6261F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6C82BA-2DAB-431F-86BB-AC732A6261F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6C82BA-2DAB-431F-86BB-AC732A6261F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF8B267-ECA4-45F4-873B-03285E95D866}
 	EndGlobalSection
 EndGlobal
