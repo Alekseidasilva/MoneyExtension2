@@ -25,5 +25,6 @@ jobs:
               run: dotnet pack --configuration release
               
             - name: Publish
-              run: dotnet nuget push "MoneyExtension2/bin/Release/*.nupkg --api-key ${{secrets.NUGET_TOKEN}} --source https://api.nuget.org/v3/index.json"
+              run: dotnet nuget push "MoneyExtension2/bin/Release/*.nupkg --api-key oy2kh7fzzidjduhyku5qi7ped46puh4efmji2l55miyvs4 --source https://api.nuget.org/v3/index.json"
               # --api-key oy2kvsutk3erww3xoaeqncb5qufuwfbu5iy3hbzf35sxii --source https://api.nuget.org/v3/index.json
+            # dotnet nuget push "MoneyExtension2/bin/Release/*.nupkg --api-key ${{secrets.NUGET_TOKEN}} --source https://api.nuget.org/v3/index.json"
