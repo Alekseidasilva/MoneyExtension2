@@ -21,7 +21,7 @@ jobs:
             - name: Testando Aplicacao
               run: dotnet test
             
-            - name: Create the Package
+            - name: Create the Package v1
               run: dotnet pack --configuration Release
               
             - name: Publish
