@@ -11,7 +11,7 @@ jobs:
         steps:
             - uses: actions/checkout@main              
             - name: Setup .Net Core
-              uses: actions/setup-dotnet@v1
+              uses: actions/setup-dotnet@v3
               with:
                 dotnet-version: '8.0.x'
                 
@@ -22,7 +22,7 @@ jobs:
               run: dotnet test
             
             - name: Create the Package v1
-              run: dotnet pack --configuration Release
+              run: dotnet pack --configuration release
               
             - name: Publish
               run: dotnet nuget push "MoneyExtension2/bin/Release/*.nupkg -k ${{secrets.NUGET_TOKEN}} -s https://api.nuget.org/v3/index.json"
