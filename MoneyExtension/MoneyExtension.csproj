@@ -6,4 +6,26 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+
+
+    <PropertyGroup>
+<PackageId>MoneyExtensions2-by-Aleksei-da-Silva</PackageId>
+    <Version>1.0.0</Version>
+    <licence>MIT</licence>
+    <Authors>Aleksei da Silva</Authors>
+    <Company>A.J.M.D.S - Soluções Tecnologicas</Company>
+    <PackageDescripption>Extension to Convert Decimal to Int</PackageDescripption>
+    <Description>Extension to Convert decimal to Int</Description>
+    <RepositoryUrl>https://github.com/Alekseidasilva/MoneyExtension2</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Alekseidasilva/MoneyExtension2</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>Money;Int;Decimal;Convert</PackageTags>    
+    <Title>Money Extension 2 <div class="Net8">Net8</div> by Aleksei da Silva</Title>
+    <Summary>Extension to Convert Decimal to Int</Summary>
+    
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\" />
+  </ItemGroup>
 </Project>
