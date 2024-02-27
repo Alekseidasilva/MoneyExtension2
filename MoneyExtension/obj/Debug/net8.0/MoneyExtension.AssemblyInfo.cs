@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Extension to Convert decimal to Int")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+041522cb922e5e058320d5754bfcb8f4d364c187")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+697f7032c8150492b4ecc315bafb42d4a1924d7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoneyExtension")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoneyExtension")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
